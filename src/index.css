@@ -7,6 +7,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.Menu{
+  display: inline-block;
+
+  border: 1 px solid black;
+  margin: 2px;
+  height: 30px;
+  width: 100px;
+  background-color: aqua;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
